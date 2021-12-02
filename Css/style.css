@@ -1,0 +1,228 @@
+
+
+/* BODY */
+body[class*=" "]{
+	font-family: "Open Sans", sans-serif;
+	color: #000000;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.7;
+}
+
+
+a, a:visited{
+	color: #000000;
+}
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+a:hover, a:focus, a:active, body .blog-item-title a:hover, .infobox-content a:hover,
+.blog-item-meta a:hover,
+.leading-icon,
+.single-expire,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open > a, 
+.navbar-default .navbar-nav .open > a:hover, 
+.navbar-default .navbar-nav .open > a:focus,
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li.current_page_ancestor > a,
+.navbar-default .navbar-nav li.current_page_ancestor > a:visited,
+.navbar-default .navbar-nav li.current_page_item > a,
+.navbar-default .navbar-nav li.current_page_item > a:visited,
+.navbar-toggle,
+.special-action a,
+.widget_widget_categories li:hover i,
+.footer-subscribe i.icon-envelope,
+.copyrights a:hover,
+.error404 .icon-compass,
+.image-loader,
+.categories-list li:hover i,
+.categories-carousel-list .owl-item i,
+.save-store:hover,
+.save-store.added:active,
+.save-store.added,
+.category-icon,
+.coupon-box h4:hover,
+.show-hide-more,
+.save-coupon.added,
+body .kc_tabs_nav > li > a:hover,
+body .kc_tabs_nav > .ui-tabs-active,
+body .kc_tabs_nav > .ui-tabs-active:hover,
+body .kc_tabs_nav > .ui-tabs-active > a,
+body .kc_tabs_nav > .ui-tabs-active > a:hover,
+.category-block i,
+.listing-style.active,
+.letter-title h3,
+.ui-state-hover, 
+.ui-widget-content .ui-state-hover, 
+.ui-widget-header .ui-state-hover, 
+.ui-state-focus, 
+.ui-widget-content .ui-state-focus, 
+.ui-widget-header .ui-state-focus,
+.ui-state-hover .ui-icon:before, 
+.ui-widget-content .ui-state-hover .ui-icon:before, 
+.ui-widget-header .ui-state-hover .ui-icon:before, 
+.ui-state-focus .ui-icon:before, 
+.ui-widget-content .ui-state-focus .ui-icon:before, 
+.ui-widget-header .ui-state-focus .ui-icon:before,
+.ui-datepicker-next .ui-icon:hover:before
+{
+	color: #1b33b0;
+}
+
+.widget-title:after,
+a.search-type:hover,
+a.search-type.type-added,
+.widget_widget_stores a:hover,
+.stores-carousel-list .owl-item:hover a,
+.categories-carousel-list .owl-item:hover a,
+.store-logo:hover,
+.coupon-image:hover,
+.owl-dot.active
+{
+	border-color: #1b33b0;
+}
+
+.styled-checkbox.active label:after,
+.styled-checkbox input:checked + label:after,
+.styled-radio.active label:after,
+.styled-radio input:checked + label:after,
+.form-submit #submit,
+.form-submit a,
+.tagcloud a, .btn, a.btn,
+.blog-item-meta:before,
+.main-search a,
+.pagination a.btn:hover,
+.pagination a.btn.active,
+a.visit-store,
+.tax-coupon-category .category-icon-wrap,
+.nav.nav-tabs > li > a:hover,
+.nav.nav-tabs > li.active > a, 
+.nav.nav-tabs > li.active > a:hover, 
+.nav.nav-tabs > li.active > a:focus,
+.nav.nav-tabs > li.active > a:active,
+.category-block:hover .white-block,
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active,
+.ui-widget-content.ui-slider-horizontal .ui-state-active,
+.ui-datepicker .ui-datepicker-buttonpane button:hover
+{
+	background-color: #1b33b0;
+	color: #ffffff;
+}
+
+.online-sale{
+	background-color: #1b33b0;
+	color: #ffffff;
+}
+
+.exclusive{
+	background-color: #1b33b0;
+	color: #ffffff;
+}
+
+.online-code{
+	background-color: #1b33b0;
+	color: #ffffff;
+}
+
+.in-store-code{
+	background-color: #1b33b0;
+	color: #ffffff;
+}
+
+.coupon-code-modal,
+.coupon-action-button.header-alike{
+	border-color: #1b33b0;
+}
+
+.code-text,
+.code-text-full,
+a.coupon-code-modal, a.coupon-code-modal:visited, a.coupon-code-modal:hover, a.coupon-code-modal:focus, a.coupon-code-modal:focus:active,
+.similar-badge{
+	background-color: #1b33b0;
+	color: #ffffff;
+}
+
+.top-header{
+	background-color: #1b33b0;
+}
+
+.header-categories a{
+	color: #bbbbbb;
+}
+
+.header-categories a:hover{
+	color: #ededed;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a,
+.navbar-default .navbar-nav li a{
+	font-size: 20px;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #1b33b0;
+}
+
+h1, h2, h3, h4, h5, h6, .header-alike, .continue-read{
+	font-weight: 600;
+	font-family: 'Montserrat', sans-serif;	
+}
+
+.continue-read{
+	font-weight: 500;
+}
+
+h1{
+	font-size: 2.6179em;
+	line-height: 1.4;
+}
+
+h2{
+	font-size: 2.0581em;
+	line-height: 1.4;
+}
+
+h3{
+	font-size: 1.618em;
+	line-height: 1.4;
+}
+
+h4{
+	font-size: 1.272em;
+	line-height: 1.4;
+}
+
+h5{
+	font-size: 1em;
+	line-height: 1.4;
+}
+
+h6{
+	font-size: 0.7862em;
+	line-height: 1.4;
+}
+
+.copyrights a,
+.copyrights{
+	color: #bbbbbb;
+	background: #202020;
+}
+
+.copyrights a:hover{
+	color: #1b33b0;
+}
